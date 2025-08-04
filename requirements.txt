@@ -1,1 +1,1 @@
-inquirer==3.4.0
+inquirer==3.4.1
